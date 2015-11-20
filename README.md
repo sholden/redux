@@ -16,7 +16,7 @@ It is tiny (2kB) and has no dependencies.
 
 ### Testimonials
 
->["Redux is awesome, other JavaScript frameworks feel like they were written by a bunch of kooks!"](https://twitter.com/mrtoddwilliams/status/667779380026847233)
+>["Redux is awesome, other JavaScript frameworks feel like they were written by a bunch of kooks!"](https://twitter.com/mrtoddwilliams/status/667779380026847233)  
 >Todd Williams, JavaScript Ninja
 
 >[“Love what you’re doing with Redux”](https://twitter.com/jingc/status/616608251463909376)  
