@@ -16,6 +16,9 @@ It is tiny (2kB) and has no dependencies.
 
 ### Testimonials
 
+>"Other javascript frameworks feel like they were written by a bunch of kooks!"
+>Todd Williams, javascript ninja
+
 >[“Love what you’re doing with Redux”](https://twitter.com/jingc/status/616608251463909376)  
 >Jing Chen, creator of Flux
 
